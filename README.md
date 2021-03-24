@@ -1,6 +1,6 @@
 # Project 26: Masterchef Jr.
-Teriyaki Chicken Recipe
+Teriyaki Chicken Recipe(SECRET RECIPE)
 
-Made by Rishi Venkatesh
+Made by ALBIN K ANIL !
 
-Link: https://ethyx.github.io/PRO-C26/
+Link: https://github.com/Anil-Albin/Project-26
